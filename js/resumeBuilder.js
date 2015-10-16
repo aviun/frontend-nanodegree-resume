@@ -140,7 +140,7 @@ var education = {
         },
         {
             "name": "Concordia University, SQL",
-            "datesAttended": "2015",
+            "datesAttended": "April 2015 - May 2015",
             "degree": "2 month program",
             "majors": ["SQL"],
             "location": "Faubourg Tower, Montreal, QC H3H"
@@ -148,7 +148,7 @@ var education = {
 
         {
             "name": "Concordia University, Java 1",
-            "datesAttended": "2015",
+            "datesAttended": "June 2015 - August 2015",
             "majors": ["Java"],
             "degree": "2 month program",
             "location": "Faubourg Tower, Montreal, QC H3H"
