@@ -1,4 +1,4 @@
-## You can see my project [here](http://aviun.github.io/frontend-nanodegree-resume/)
+## You can see my project [here](https://aviun.github.io/frontend-nanodegree-resume/)
 
 
 ## How do I complete this project?
